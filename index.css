@@ -89,7 +89,11 @@ body {
 
 .d5 {
   text-align: center;
-  margin-top: 50px;
+  position: absolute;
+  z-index: 2;
+  left: 870px;
+  top: 860px;
+
 }
 
 .h2 {
